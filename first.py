@@ -1,5 +1,5 @@
 n=int(input())
 if(n>0):
-	print ("postive")
+	print ("Postive Testcase")
 else:
-	print("negative")
+	print("Negative Testcase")
