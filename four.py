@@ -1,6 +1,6 @@
 n=input()
 n=n.lower()
 if(ord(n)>=97 and ord(n)<=123):
-	print("Yes")
+	print("Alphabet")
 else:
-	print("No")
+	print("Not Alphabet")
