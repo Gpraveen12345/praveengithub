@@ -7,7 +7,7 @@ for i in range(a[0]+1,a[1]):
 		if(i%j==0):
 			break
 	else:
-		if(a[1]-1<>i):
+		if(a[1]-1!=i):
 			print(i,end=' ')
 		else:
 			print(i)
